@@ -8,4 +8,4 @@ Portfolio showcase
 
 ### Preview
 
-![Preview](./Design/preview-1.png)
+![Preview](./Design/preview-2.png)
