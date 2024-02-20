@@ -4,7 +4,11 @@ Portfolio showcase
 
 ## Tech stack
 
-- Frontend (html,css,js)
+- Frontend
+- html
+- css
+- js
+- bootstrap
 
 ### Preview
 
